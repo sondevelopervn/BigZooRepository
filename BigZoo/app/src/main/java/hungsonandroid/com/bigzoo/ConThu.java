@@ -6,6 +6,7 @@ package hungsonandroid.com.bigzoo;
 public class ConThu  {
     public String TenConThu;
     public Integer  Hinh;
+    public  String comment;
 
     public ConThu(String tenConThu, Integer hinh) {
         TenConThu = tenConThu;
